@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DOCUMENT xmlns="http://www.fpt-aptech.com/customer/">
+    <OhhNoo>
+        <Name>
+            <LastName>Dang</LastName>
+            <FirstName>Kim Thi</FirstName>
+        </Name>
+        <Adrress>8A Ton That Thuyet</Adrress>
+        <Number> 0987642358</Number>
+    </OhhNoo>
+</DOCUMENT>
