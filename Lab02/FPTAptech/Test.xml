@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document xmlns="http://xmlpowercorp"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://xmlpowercorp Saledetais.xsd">
+    <FPTAptech>
+        <Strudent Sex="Female">
+            <Name>
+                <FName>Dinh</FName>
+                <LName>Anh</LName>
+            </Name>
+            <Age>18</Age>
+        </Strudent>
+        <Strudent Sex="Female">
+            <Name>
+                <FName>Phan</FName>
+                <LName>Tu</LName>
+            </Name>
+            <Age>22</Age>
+        </Strudent>
+        <Strudent Sex="Male">
+            <Name>
+                <FName>Kiet</FName>
+                <LName>Do</LName>
+            </Name>
+            <Age>15</Age>
+        </Strudent>
+    </FPTAptech>
+</document>
